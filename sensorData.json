@@ -1,1 +1,337 @@
-[]
+[
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T03:56:29.925Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T03:56:30.014Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T04:09:15.150Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T04:22:13.229Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T04:22:13.275Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T04:26:12.983Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T05:52:30.671Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T05:52:30.722Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T05:58:49.660Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:02:32.167Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:12:03.352Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:12:03.560Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:13:17.170Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:13:17.236Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:13:17.325Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:15:00.382Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:16:35.171Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:16:35.179Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:17:29.740Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:17:29.769Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.265Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.288Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.312Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.654Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.632Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.644Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.328Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.921Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.929Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.900Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.671Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.343Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.363Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.606Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.619Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:17.913Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:24.536Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:24.545Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:24.553Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:24.561Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:24.576Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:31.739Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:31.744Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:18:31.757Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:20:09.207Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:20:09.219Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:21:16.488Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:21:16.527Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:21:16.549Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:22:26.192Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:22:26.187Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:22:26.202Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:45:15.699Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:45:15.735Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:45:15.758Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:45:15.788Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:45:15.804Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T06:45:15.817Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:40:48.618Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:40:48.641Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:40:48.664Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:40:48.680Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:41:33.807Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:41:33.867Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:41:33.843Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:41:33.826Z"
+  },
+  {
+    "sensorType": "a",
+    "value": "a",
+    "timestamp": "2024-12-03T07:41:33.889Z"
+  }
+]
